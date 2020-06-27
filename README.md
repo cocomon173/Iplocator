@@ -8,7 +8,7 @@ perl
 
 Execution
 
-./iplocator.pl [domain or ip]
+./iplocator.pl [domain or ip] or
 perl iplocator.pl [domain or ip]
 
 Thanks!
